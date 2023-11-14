@@ -1,1 +1,1 @@
-![My BSPWM Desktop](picture.png)
+![My BSPWM Desktop](newdesk.png)
